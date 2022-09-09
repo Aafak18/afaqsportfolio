@@ -1,11 +1,16 @@
  export const skillsData = [
     'HTML',
-    'Javascript',
     'CSS',
+    'Javascript',
     'React',
-    'Django',
-    'MongoDB',
-    'MySQL',
+    'Microsoft Office',
+    'Git',
+    'Canva',
+    'Tailwind',
+    'Bootstrap',
+    'C',
+    'C++',
+    'Wordpress',
     'Python'
 ]
 
@@ -16,6 +21,7 @@
 // AVAILABLE SKILLS
 
 /* 
+
     HTML
     CSS
     JS 
@@ -24,6 +30,9 @@
     Nuxt JS
     Node JS
     Vue
+    Django,
+    MongoDB,
+    MySQL,
     Angular
     Docker
     Photoshop
@@ -63,13 +72,13 @@
     Dart
     Typescript
     Swift
-    Git
     Figma
+    Git
     Canva
     Ubuntu
+    Tailwind
     Bootstrap
     MongoDB
-    Tailwind
     ViteJS
     VuetifyJS
     MySQL

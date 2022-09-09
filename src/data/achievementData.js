@@ -1,39 +1,72 @@
+import html from '../assets/png/html.jpeg'
+import css from '../assets/png/css.jpeg'
+import react from '../assets/png/react.jpeg'
+// import python from '../assets/png/python.jpeg'
+import ads from '../assets/png/ads.jpeg'
+import analytics from '../assets/png/analytics.jpeg'
+
+
 export const achievementData = {
     bio : "The illiterate of the 21st century will not be those who cannot read and write, but those who cannot learn, unlearn, and relearn. - Alvin Toffler",
     achievements : [
         {
             id : 1,
-            title : '2021 Complete Python Bootcamp From Zero to Hero in Python',
-            details : 'A python course from Udemy',
-            date : 'Jan 28, 2021',
-            field : 'Coding',
-            image : 'https://udemy-certificate.s3.amazonaws.com/image/UC-0cd075aa-f55b-4d9f-aec0-119020a4e792.jpg?v=1611846350000'
+            title : 'Google Analytics Certified',
+            details : 'A certification for Google Analytics',
+            date : 'Sept 6, 2022',
+            field : 'Google Analytics',
+            image : 'analytics'
         },
         {
             id : 2,
-            title : 'The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert',
-            details : 'A MySQL course from Udemy',
-            date : 'May 25, 2021',
-            field : 'Database',
-            image : 'https://udemy-certificate.s3.amazonaws.com/image/UC-91ae3ea2-39ee-4a57-bf23-d397aff0d9a7.jpg?v=1621951317000'
+            title : 'Google Ads Search Certified',
+            details : 'Fundamentals of building and customizing effective Google Search campaigns.',
+            date : 'Sept 6, 2022',
+            field : 'Google Adsense',
+            image : 'ads'
         },
         {
             id : 3,
-            title : 'Machine Learning A-Z: Hands-On Python & R in Data Science',
-            details : 'Data Science Course from Udemy',
-            date : 'Apr 13, 2021',
-            field : 'Machine Learning',
-            image : 'https://udemy-certificate.s3.amazonaws.com/image/UC-d9a7ba99-8635-47e6-96fc-7dd26a3dcbf1.jpg?v=1618297236000'
+            title : 'React JS certified',
+            details : 'Hands on React Js',
+            date : 'Sept 8, 2022',
+            field : 'Web Developement',
+            image : 'react'
         },
         {
             id : 3,
-            title : 'R Programming A-Z: R For Data Science With Real Exercises!',
-            details : 'R Programming Language Course from Udemy',
-            date : 'Feb 28, 2021',
-            field : 'Data Science',
-            image : 'https://udemy-certificate.s3.amazonaws.com/image/UC-8f5ff8e8-b6a4-4efd-a3fc-7fb63b29e77f.jpg?v=1614489452000'
-        }
+            title : 'Programming in Python certified',
+            details : 'Python Programming Language Course',
+            date : 'Sept 8, 2022',
+            field : 'Back-end Developement',
+            image : 'python'
+        },
 
+        {
+            id : 4,
+            title : 'HTML 5 Application Developement Certificate',
+            details : 'HTML5 Certifaction for Application Developement',
+            date : 'Sept 7, 2022',
+            field : 'Front-end Developement',
+            image : 'html'
+        },
+        {
+            id : 5,
+            title : 'Programming in HTML5 with JavaScript & CSS3',
+            details : 'Certifiaction for front-end developement',
+            date : 'Sept 7, 2022',
+            field : 'Front-end Developement',
+            image : 'css'
+        },
+        {
+            id : 6,
+            title : 'Speed Programming in C/C++',
+            details : 'Speed programming certification in C/C++',
+            date : 'Feb 1, 2016',
+            field : 'Programming Challenge',
+            image : ' '
+        },
+        
     ]
 }
 
