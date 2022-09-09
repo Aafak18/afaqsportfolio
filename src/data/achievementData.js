@@ -1,5 +1,5 @@
 import html from '../assets/png/html.jpeg'
-import css from '../assets/png/css.jpeg'
+import css from '..//assets/png/css.jpeg'
 import react from '../assets/png/react.jpeg'
 // import python from '../assets/png/python.jpeg'
 import ads from '../assets/png/ads.jpeg'
@@ -23,7 +23,7 @@ export const achievementData = {
             details : 'Fundamentals of building and customizing effective Google Search campaigns.',
             date : 'Sept 6, 2022',
             field : 'Google Adsense',
-            image : 'ads'
+            image : 'ads.jpeg'
         },
         {
             id : 3,
