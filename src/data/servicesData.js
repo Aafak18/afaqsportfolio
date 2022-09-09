@@ -7,11 +7,11 @@ import { FaInternetExplorer,  FaChalkboardTeacher, FaCameraRetro, FaPinterest, F
  
 
 export const servicesData = [
-    // {
-    //     id: 1,
-    //     title: 'Marketing',
-    //     icon: <BiShoppingBag/>
-    // },
+    {
+        id: 1,
+        title: 'Marketing',
+        icon: <BiShoppingBag/>
+    },
     {
         id: 2,
         title: 'Content Writing',

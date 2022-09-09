@@ -15,7 +15,7 @@ export const achievementData = {
             details : 'A certification for Google Analytics',
             date : 'Sept 6, 2022',
             field : 'Google Analytics',
-            image : 'analytics'
+            image : analytics
         },
         {
             id : 2,
@@ -23,7 +23,7 @@ export const achievementData = {
             details : 'Fundamentals of building and customizing effective Google Search campaigns.',
             date : 'Sept 6, 2022',
             field : 'Google Adsense',
-            image : 'ads'
+            image : ads
         },
         {
             id : 3,
@@ -31,7 +31,7 @@ export const achievementData = {
             details : 'Hands on React Js',
             date : 'Sept 8, 2022',
             field : 'Web Developement',
-            image : 'react'
+            image : react
         },
         {
             id : 3,
@@ -39,7 +39,7 @@ export const achievementData = {
             details : 'Python Programming Language Course',
             date : 'Sept 8, 2022',
             field : 'Back-end Developement',
-            image : 'python'
+            image : css
         },
 
         {
@@ -48,7 +48,7 @@ export const achievementData = {
             details : 'HTML5 Certifaction for Application Developement',
             date : 'Sept 7, 2022',
             field : 'Front-end Developement',
-            image : 'html'
+            image : html
         },
         {
             id : 5,
@@ -56,7 +56,7 @@ export const achievementData = {
             details : 'Certifiaction for front-end developement',
             date : 'Sept 7, 2022',
             field : 'Front-end Developement',
-            image : 'css'
+            image : css
         },
         {
             id : 6,
