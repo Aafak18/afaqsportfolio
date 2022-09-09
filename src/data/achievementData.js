@@ -23,7 +23,7 @@ export const achievementData = {
             details : 'Fundamentals of building and customizing effective Google Search campaigns.',
             date : 'Sept 6, 2022',
             field : 'Google Adsense',
-            image : 'ads.jpeg'
+            image : 'ads'
         },
         {
             id : 3,
