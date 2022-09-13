@@ -19,7 +19,7 @@ function Main() {
             <Experience/>   
             <Achievement />  
             <Services/>     
-            {/* <Projects /> */}          
+            <Projects />          
             {/* <Blog /> */}
             <Contacts />
             <Footer />
