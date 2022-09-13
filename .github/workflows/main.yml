@@ -41,4 +41,3 @@ jobs:
         
       - name: deploying on surge
         run: surge ./build https://afaqsportfolio.surge.sh/ --token ${{ secrets.SURGE_TOKEN }}
-        #5c4097e1b6a293f261640b767b350939
