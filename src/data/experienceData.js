@@ -2,8 +2,8 @@ export const experienceData = [
     {
        id: 1,
        company: 'Phantom Technologies',
-       jobtitle: 'Frontend Developer',
-       startYear: 'Jan 2022',
+       jobtitle: 'Software Engineer',
+       startYear: 'Feb 2017',
        endYear: 'July 2022'
     },
 
