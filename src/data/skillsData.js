@@ -2,7 +2,10 @@
     'HTML',
     'CSS',
     'Javascript',
+    'Typescript',
     'React',
+    'AWS',
+    'MaterialUI',
     'Microsoft Office',
     'Git',
     'Canva',
@@ -11,7 +14,12 @@
     'C',
     'C++',
     'Wordpress',
-    'Python'
+    'Python',
+    'Numpy',
+    'OpenCV',
+    'Pytorch',
+    'Selenium',
+    'Tensorflow'
 ]
 
 // Choose your skills from below. Make sure it's in the same format and spelled correctly.
@@ -99,8 +107,8 @@
     OpenCV
     Pytorch
     Selenium
-    Strapi
     Tensorflow
+    Strapi
     Webex
     Wordpress
 */
