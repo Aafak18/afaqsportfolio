@@ -1,6 +1,6 @@
 import budget from '../assets/png/budget.png';
 import expense from '../assets/png/expense.png';
-import portfoliox from '../assets/png/portfoliox.jpeg';
+import portfoliox from '../assets/png/portfoliox.png';
 
 
 export const projectsData = [
