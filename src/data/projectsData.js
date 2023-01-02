@@ -166,5 +166,4 @@ export const projectsData = [
         //demo: 'https://afaqsportfoliox.netlify.app/',
         image: ''
     },
-    
 ]
